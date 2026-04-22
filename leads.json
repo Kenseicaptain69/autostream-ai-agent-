@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Test User",
+    "email": "test@example.com",
+    "platform": "YouTube",
+    "captured_at": "2026-04-22T18:17:26.991836+00:00",
+    "status": "new_lead",
+    "product": "AutoStream Pro"
+  }
+]

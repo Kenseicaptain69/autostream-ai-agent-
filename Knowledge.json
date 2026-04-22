@@ -1,0 +1,24 @@
+{
+  "general": {
+    "product": "AutoStream",
+    "description": "A SaaS platform for automated video streaming and content management. Stream to multiple platforms simultaneously with AI-powered features.",
+    "platforms": ["YouTube", "Twitch", "Instagram", "TikTok", "Facebook"]
+  },
+  "basic_plan": {
+    "price": "$29/month",
+    "videos": "10/month",
+    "resolution": "720p",
+    "features": ["Basic scheduling", "Single platform", "Email support"]
+  },
+  "pro_plan": {
+    "price": "$79/month",
+    "videos": "Unlimited",
+    "resolution": "4K",
+    "features": ["AI captions", "Multi-platform streaming", "Advanced analytics", "Priority 24/7 support", "Custom branding"]
+  },
+  "policies": {
+    "refund": "No refunds after 7 days",
+    "support": "24/7 support only for Pro plan users. Basic plan includes email support (response within 24 hours).",
+    "trial": "14-day free trial available for Pro plan"
+  }
+}
