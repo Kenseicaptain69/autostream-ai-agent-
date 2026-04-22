@@ -46,8 +46,8 @@ Open **two terminals** (venv activated in both):
 |------|---------|------------|
 | 1 | *"What are your pricing plans?"* | Answers from knowledge base (RAG) |
 | 2 | *"I want the Pro plan for YouTube"* | Detects buying intent, extracts platform |
-| 3 | *"John Doe"* | Captures name, asks for email |
-| 4 | *"john@example.com"* | Captures email, saves lead to `leads.json` |
+| 3 | *"shreeyash"* | Captures name, asks for email |
+| 4 | *"shreemobarkar@example.com"* | Captures email, saves lead to `leads.json` |
 
 ---
 
